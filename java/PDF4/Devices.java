@@ -1,5 +1,5 @@
 package PDF4;
-//This is the grandfather class
+//This is the grandfather class, Phone and Tablet being the Parent class and rest Child class
 public class Devices {
 
     void numberOfCameras(){
